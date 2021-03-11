@@ -8,4 +8,4 @@ The model is calibrated to replicate the volatitiy and persistance of the output
 
 To run the algorithm run ```main.md ```
 
-For the analytical derivation of the model and the comments on the results see *** report3 ***
+For the analytical derivation of the model and the comments on the results see ***report3***
